@@ -1,5 +1,5 @@
 # RstudioServer on Google Colaboratory
-This repository builds a Rstudio-server on Google colaboratory.
+This repository builds a Rstudio server executed on Google colaboratory.
 
 The goal is to build tools that make research easy for Rstudio users who do not have access to adquate hardware for their projects. Many thanks to [naru-T/RstudioServer_on_Colab](https://github.com/naru-T/RstudioServer_on_Colab) for having built the initial VM which we expand upon.
 
