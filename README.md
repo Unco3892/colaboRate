@@ -5,8 +5,8 @@ The goal is to build tools that make research easy for Rstudio users who do not 
 
 
 # How to launch Rstudio-server on Google Colab?
-1. Open Rstudio_server.ipynb on Colab
-2. Run all codes one by one. 
+1. Open run_server.ipynb on Colab
+2. Run all the chunks of code. 
 3. The "rstudio" user is created. The password should be defined by user.
 4. Launch the localtunnel produced weblink. Rstudio-server will be launched.
 
